@@ -1,0 +1,8 @@
+.idea
+
+vagrant/.vagrant/*
+vagrant/builds/thebestproject-tmp.box
+
+vagrant/files/*.iso
+
+vagrant/packer_cache/*
